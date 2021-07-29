@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105656858495",
+    "project_id": "hilt-test-3f691",
+    "storage_bucket": "hilt-test-3f691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105656858495:android:f9a5b25f53354d27bf8c4a",
+        "android_client_info": {
+          "package_name": "com.regin.earlycomponentissue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105656858495-hacrq8dt2db0on3dskk7liqio5op5h5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_elbFG0CLobGHCEn8_OUQ_pEzNlKJWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105656858495-hacrq8dt2db0on3dskk7liqio5op5h5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
